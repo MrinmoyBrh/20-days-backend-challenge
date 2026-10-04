@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-04T10:52:11.756Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T10:52:25.949Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T10:55:03.016Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T10:55:24.889Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T10:56:21.800Z","level":"ERROR","action":"SERVER_UNCAUGHT_EXCEPTION","ip":"::1","details":{"error":"Invalid JSON"}}
+{"timestamp":"2026-10-04T10:58:44.400Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::ffff:127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T11:00:53.273Z","level":"INFO","action":"USER_LOGIN_SUCCESS","ip":"::ffff:127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T11:00:59.951Z","level":"WARN","action":"USER_LOGIN_FAILED","ip":"::ffff:127.0.0.1","details":{"username":"admin"}}
+{"timestamp":"2026-10-04T11:01:07.879Z","level":"INFO","action":"AUDIT_LOGS_ACCESSED","ip":"::ffff:127.0.0.1","details":{"recordsCount":8}}
